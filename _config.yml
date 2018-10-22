@@ -1,0 +1,30 @@
+markdown: kramdown
+highlighter: pygments
+permalink: /posts/:title.html
+excerpt_separator: "<!-- more -->"
+
+github: thangdnsf
+author: "Thangdn"
+email: thangdn.tlu@gmail.com
+name: "Thangdn"
+url: http://thangdn.com
+domain: thangdn.com
+all_categories: [
+["Python", "Python","/posts/Python.html"], 
+["Machine learning", "Machine learning","/posts/Machine-learning.html"],
+["Deep learning", "Deep learning","/posts/Deep-learning.html"], 
+["IELTS", "IELTS","/posts/IELTS.html"],
+["other", "Other","/posts/other.html"],
+["about", "About","/about.html"]
+]
+
+paginate: 5
+paginate_path: "page:num"
+timezone: Asia/Bangkok
+
+collections:
+  docs:
+    output: true
+
+plugins:
+ - jekyll-paginate
