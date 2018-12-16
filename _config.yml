@@ -13,7 +13,7 @@ all_categories: [
 ["Python", "Python","/posts/Python.html"], 
 ["Machine learning", "Machine learning","/posts/Machine-learning.html"],
 ["Deep learning", "Deep learning","/posts/Deep-learning.html"], 
-["IELTS", "IELTS","/posts/IELTS.html"],
+["Mathematic", "Mathematic","/posts/Mathematic.html"],
 ["other", "Other","/posts/other.html"],
 ["about", "About","/about.html"]
 ]
