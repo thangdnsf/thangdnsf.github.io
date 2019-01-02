@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Course"
+title: "Deep Learning from scratch"
 ---
 <h1 class="page-title gray-text text-darken-3">{{ page.title | escape }}</h1>
 
 <div class="section">
-    <h5>Welcome to the course: Deep Learning from scratch</h5> 
+    <h5>Welcome to this course</h5> 
 Hi all, I'm Thang Nguyen (Davis), Tutor in the course: from Mathematics to Machine learning and Deep learning and I really interested to do that. I strongly believe that this course will provide knowledge on machine learning, deep learning and how to apply them in real-life applications. 
 <br>
 I would like to know somethings regarding these courses:
