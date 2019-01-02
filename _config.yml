@@ -10,10 +10,11 @@ name: "Thangdn"
 url: http://thangdn.com
 domain: thangdn.com
 all_categories: [
-["Python", "Python","/posts/Python.html"], 
+["Courses", "Courses","/posts/Courses.html"], 
+["Python", "Python","/posts/Python.html"],
+["Mathematic", "Mathematic","/posts/Mathematic.html"],
 ["Machine learning", "Machine learning","/posts/Machine-learning.html"],
 ["Deep learning", "Deep learning","/posts/Deep-learning.html"], 
-["Mathematic", "Mathematic","/posts/Mathematic.html"],
 ["other", "Other","/posts/other.html"],
 ["about", "About","/about.html"]
 ]
