@@ -258,7 +258,7 @@ I would like to know somethings regarding these courses:
                 </tr>
                 <tr>
                   <td>5</td>
-                  <td>Machine learning co ban</td>
+                  <td><a href="https://machinelearningcoban.com/">Machine learning co ban</a></td>
                   <td>Vu Huu Tiep</td>
                   <td></td>
                 </tr>
