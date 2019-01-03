@@ -26,6 +26,7 @@ I would like to know somethings regarding these courses:
                     <th>Week of</th>
                     <th>Location </th>
                     <th>Time </th>
+                    <th>Lecturers</th>
                 </tr>
               </thead>
               <tbody>
@@ -35,6 +36,7 @@ I would like to know somethings regarding these courses:
                   <td>Jan 12th 2019</td>
                   <td>A204</td>
                   <td>1pm</td>
+                  <td>Thang Nguyen</td>
                 </tr>
                 <tr>
                   <td >2</td>
@@ -42,6 +44,7 @@ I would like to know somethings regarding these courses:
                   <td>Jan 19th 2019</td>
                   <td>A204</td>
                   <td>1pm</td>
+                  <td>My Nguyen, Hoan Nguyen</td>
                 </tr>
               </tbody>
             </table>
