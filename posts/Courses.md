@@ -34,7 +34,7 @@ I would like to know somethings regarding these courses:
                   <td >1</td>
                   <td>Programming in python, numpy, mathplotlib, ...</td>
                   <td>Jan 12th 2019</td>
-                  <td>A204</td>
+                  <td>B204</td>
                   <td>1pm</td>
                   <td>Thang Nguyen</td>
                 </tr>
@@ -42,7 +42,7 @@ I would like to know somethings regarding these courses:
                   <td >2</td>
                   <td>Review of Calculus, Linear Algebra, Probability & Statistics</td>
                   <td>Jan 19th 2019</td>
-                  <td>A204</td>
+                  <td>B204</td>
                   <td>1pm</td>
                   <td>My Nguyen, Hoan Nguyen</td>
                 </tr>
