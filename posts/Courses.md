@@ -234,25 +234,25 @@ I would like to know somethings regarding these courses:
               <tbody>
                 <tr>
                   <td>1</td>
-                  <td>Deep learning book</td>
+                  <td><a href="http://deeplearningbook.org">Deep learning book</a></td>
                   <td>Ian Goodfellow and Yoshua Bengio and Aaron Courville</td>
                   <td>MIT</td>
                 </tr>
                 <tr>
                   <td>2</td>
-                  <td>Machine learning</td>
+                  <td><a href="https://www.coursera.org/learn/machine-learning">Machine learning</a></td>
                   <td>Andrew Ng</td>
                   <td>Coursera, Stanford</td>
                 </tr>
                 <tr>
                   <td>3</td>
-                  <td>Deep learning Specialization</td>
+                  <td><a href="https://www.coursera.org/specializations/deep-learning">Deep learning Specialization</a></td>
                   <td>Andrew Ng</td>
                   <td>Coursera, Stanford</td>
                 </tr>
                 <tr>
                   <td>4</td>
-                  <td>Convex Optimization</td>
+                  <td><a href="https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf">Convex Optimization</a></td>
                   <td>Boyd and Vandenberghe</td>
                   <td>Cambridge University Press</td>
                 </tr>
@@ -264,8 +264,26 @@ I would like to know somethings regarding these courses:
                 </tr>
                 <tr>
                   <td>6</td>
-                  <td>A Beginner’s Tutorial for Machine Learning Beginners</td>
+                  <td><a href="https://www.dropbox.com/s/cy8rme5f0o3ip5q/a%20beginner%20tutorial%20for%20machine%20learning%20beginner.pdf?dl=0">A Beginner’s Tutorial for Machine Learning Beginners</a></td>
                   <td>Shudong Hao</td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td>7</td>
+                  <td><a href="https://gwthomas.github.io/docs/math4ml.pdf">Mathematics for Machine Learning</a></td>
+                  <td>Garrett Thomas</td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td>8</td>
+                  <td><a href="https://github.com/afshinea/stanford-cs-229-machine-learning">VIP cheatsheets for Stanford's CS 229 Machine Learning</a></td>
+                  <td>Afshine Amidi (MIT) and Shervine Amidi (Stanford)</td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td>9</td>
+                  <td><a href="https://github.com/afshinea/stanford-cs-230-deep-learning">VIP cheatsheets for Stanford's CS 230 Deep Learning</a></td>
+                  <td>Afshine Amidi (MIT) and Shervine Amidi (Stanford)</td>
                   <td></td>
                 </tr>
               </tbody>
