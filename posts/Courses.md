@@ -31,14 +31,14 @@ I would like to know somethings regarding these courses:
               <tbody>
                 <tr>
                   <td >1</td>
-                  <td>Review of Calculus, Linear Algebra, Probability & Statistics</td>
+                  <td>Programming in python, numpy, mathplotlib, ...</td>
                   <td>Jan 12th 2019</td>
                   <td>A204</td>
                   <td>1pm</td>
                 </tr>
                 <tr>
                   <td >2</td>
-                  <td>Programming in python, numpy, mathplotlib, ...</td>
+                  <td>Review of Calculus, Linear Algebra, Probability & Statistics</td>
                   <td>Jan 19th 2019</td>
                   <td>A204</td>
                   <td>1pm</td>
