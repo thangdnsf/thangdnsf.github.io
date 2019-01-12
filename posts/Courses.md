@@ -34,7 +34,7 @@ I would like to know somethings regarding these courses:
                   <td >1</td>
                   <td>Programming in python, numpy, mathplotlib, ...</td>
                   <td>Jan 12th 2019</td>
-                  <td>B204</td>
+                  <td>B401</td>
                   <td>1pm</td>
                   <td>Thang Nguyen</td>
                 </tr>
