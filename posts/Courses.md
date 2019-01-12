@@ -32,7 +32,7 @@ I would like to know somethings regarding these courses:
               <tbody>
                 <tr>
                   <td >1</td>
-                  <td>Programming in python, numpy, mathplotlib, ...</td>
+                  <td><a href="http://cs231n.github.io/python-numpy-tutorial/">Programming in python, numpy, mathplotlib, ...</a></td>
                   <td>Jan 12th 2019</td>
                   <td>B401</td>
                   <td>1pm</td>
@@ -309,7 +309,7 @@ I would like to know somethings regarding these courses:
               <tbody>
                 <tr>
                   <td>1</td>
-                  <td>Nguyen Ngoc Hai</a></td>
+                  <td>Nguyen Ngoc Hai</td>
                   <td></td>
                   <td></td>
                 </tr>
@@ -351,7 +351,7 @@ I would like to know somethings regarding these courses:
                 </tr>
                 <tr>
                   <td>8</td>
-                  <td></td>
+                  <td>Nguyen Tien Hoang</td>
                   <td></td>
                   <td></td>
                 </tr>
