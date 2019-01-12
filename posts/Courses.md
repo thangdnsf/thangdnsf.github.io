@@ -292,3 +292,79 @@ I would like to know somethings regarding these courses:
     </div>
     
 </div>
+
+<div class="section">
+    <h5>Students</h5> 
+    <div class="row">
+          <div class="col s12">
+            <table class="striped centered">
+             <thead class="card-panel teal lighten-2 white-text">
+                <tr>
+                    <th>No.</th>
+                    <th>Name</th>
+                    <th>Phone</th>
+                    <th>Email</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>1</td>
+                  <td>Nguyen Ngoc Hai</a></td>
+                  <td></td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td>2</td>
+                  <td>Nguyen Chi Cong</td>
+                  <td></td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td>3</td>
+                  <td>Nguyen Van Son</td>
+                  <td></td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td>4</td>
+                  <td>Nham Ngoc Tuan Anh</td>
+                  <td></td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td>5</td>
+                  <td>Lai Thi Phuong Thao</td>
+                  <td></td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td>6</td>
+                  <td>To Huong Lan</td>
+                  <td></td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td>7</td>
+                  <td>Nguyen Tu Anh</td>
+                  <td></td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td>8</td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td>9</td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+    </div>
+    
+</div>
+
