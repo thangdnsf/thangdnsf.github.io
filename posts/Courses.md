@@ -205,8 +205,15 @@ I would like to know somethings regarding these courses:
                   <td></td>
                 </tr>
                 <tr>
-                  <td>My Nguyen</td>
+                  <td>My Nguyen (Mii)</td>
                   <td>Lecturer</td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td>Hoang Bui</td>
+                  <td>Teaching Assistant</td>
                   <td></td>
                   <td></td>
                   <td></td>
@@ -357,7 +364,7 @@ I would like to know somethings regarding these courses:
                 </tr>
                 <tr>
                   <td>9</td>
-                  <td></td>
+                  <td>Bui Tuan Anh</td>
                   <td></td>
                   <td></td>
                 </tr>
