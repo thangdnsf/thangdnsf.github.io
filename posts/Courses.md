@@ -36,7 +36,7 @@ I would like to know somethings regarding these courses:
                   <td>Jan 12th 2019</td>
                   <td>B401</td>
                   <td>1pm</td>
-                  <td>Davis</td>
+                  <th>Davis</th>
                 </tr>
                 <tr>
                   <td >2</td>
@@ -44,7 +44,7 @@ I would like to know somethings regarding these courses:
                   <td>Jan 19th 2019</td>
                   <td>B401</td>
                   <td>1pm</td>
-                  <td>Mii, Hoan Ng.</td>
+                  <th>Mii, Hoan Ng.</th>
                 </tr>
               </tbody>
             </table>
