@@ -36,7 +36,7 @@ I would like to know somethings regarding these courses:
                   <td>Jan 12th 2019</td>
                   <td>B401</td>
                   <td>1pm</td>
-                  <td>Thang Nguyen</td>
+                  <td>Davis</td>
                 </tr>
                 <tr>
                   <td >2</td>
@@ -44,7 +44,7 @@ I would like to know somethings regarding these courses:
                   <td>Jan 19th 2019</td>
                   <td>B401</td>
                   <td>1pm</td>
-                  <td>My Nguyen, Hoan Nguyen</td>
+                  <td>Mii, Hoan Ng.</td>
                 </tr>
               </tbody>
             </table>
@@ -62,6 +62,7 @@ I would like to know somethings regarding these courses:
                     <th>Week of</th>
                     <th>Location </th>
                     <th>Time </th>
+                    <th>Lecturer </th>
                 </tr>
               </thead>
               <tbody>
@@ -71,6 +72,7 @@ I would like to know somethings regarding these courses:
                   <td></td>
                   <td></td>
                   <td>1pm</td>
+                  <th>Davis </th>
                 </tr>
                 <tr>
                   <td>2</td>
@@ -78,6 +80,7 @@ I would like to know somethings regarding these courses:
                   <td></td>
                   <td></td>
                   <td>1pm</td>
+                  <th></th>
                 </tr>
                 <tr>
                   <td>3</td>
@@ -85,6 +88,7 @@ I would like to know somethings regarding these courses:
                   <td></td>
                   <td></td>
                   <td>1pm</td>
+                  <th></th>
                 </tr>
                 <tr>
                   <td>4</td>
@@ -92,6 +96,7 @@ I would like to know somethings regarding these courses:
                   <td></td>
                   <td></td>
                   <td>1pm</td>
+                  <th></th>
                 </tr>
                 <tr>
                   <td>5</td>
@@ -99,6 +104,7 @@ I would like to know somethings regarding these courses:
                   <td></td>
                   <td></td>
                   <td>1pm</td>
+                  <th></th>
                 </tr>
                 <tr>
                   <td>6</td>
@@ -106,6 +112,7 @@ I would like to know somethings regarding these courses:
                   <td></td>
                   <td></td>
                   <td>1pm</td>
+                  <th></th>
                 </tr>
               </tbody>
             </table>
@@ -122,6 +129,7 @@ I would like to know somethings regarding these courses:
                     <th>Week of</th>
                     <th>Location </th>
                     <th>Time </th>
+                    <th>Lecturer</th>
                 </tr>
               </thead>
               <tbody>
@@ -131,6 +139,7 @@ I would like to know somethings regarding these courses:
                   <td></td>
                   <td></td>
                   <td>1pm</td>
+                  <th></th>
                 </tr>
                 <tr>
                   <td>2</td>
@@ -138,6 +147,7 @@ I would like to know somethings regarding these courses:
                   <td></td>
                   <td></td>
                   <td>1pm</td>
+                  <th></th>
                 </tr>
                 <tr>
                   <td>3</td>
@@ -145,6 +155,7 @@ I would like to know somethings regarding these courses:
                   <td></td>
                   <td></td>
                   <td>1pm</td>
+                  <th></th>
                 </tr>
                 <tr>
                   <td>4</td>
@@ -152,6 +163,7 @@ I would like to know somethings regarding these courses:
                   <td></td>
                   <td></td>
                   <td>1pm</td>
+                  <th></th>
                 </tr>
                 <tr>
                   <td>5</td>
@@ -159,6 +171,7 @@ I would like to know somethings regarding these courses:
                   <td></td>
                   <td></td>
                   <td>1pm</td>
+                  <th></th>
                 </tr>
                 <tr>
                   <td>6</td>
@@ -166,6 +179,7 @@ I would like to know somethings regarding these courses:
                   <td></td>
                   <td></td>
                   <td>1pm</td>
+                  <th></th>
                 </tr>
               </tbody>
             </table>
