@@ -44,7 +44,7 @@ I would like to know somethings regarding these courses:
                   <td>Jan 19th 2019</td>
                   <td>B401</td>
                   <td>1pm</td>
-                  <th>Mii, Hoan Ng.</th>
+                  <th>Mii, Hoan</th>
                 </tr>
               </tbody>
             </table>
