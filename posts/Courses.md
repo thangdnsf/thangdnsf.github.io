@@ -61,25 +61,28 @@ I would like to know somethings regarding these courses:
                     <th>Topics</th>
                     <th>Week of</th>
                     <th>Location </th>
-                    <th>Time </th>
-                    <th>Lecturer </th>
+                    <th>Time</th>
+                    <th>Submit</th>
+                    <th>Lecturer</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
                   <td >1</td>
-                  <td>Linear regression</td>
+                  <td><a href="https://github.com/trekhleb/homemade-machine-learning/tree/master/homemade/linear_regression">Linear regression</a></td>
                   <td>Jan 26th 2019</td>
                   <td>B401</td>
                   <td>1pm</td>
+                  <td><a href="https://classroom.github.com/a/RONh2Mql">submit</a></td>
                   <th>Davis </th>
                 </tr>
                 <tr>
                   <td>2</td>
                   <td>Logistics regression</td>
-                  <td></td>
-                  <td></td>
+                  <td>Feb 16th 2019</td>
+                  <td>B401</td>
                   <td>1pm</td>
+                  <td></td>
                   <th></th>
                 </tr>
                 <tr>
@@ -379,6 +382,12 @@ I would like to know somethings regarding these courses:
                 <tr>
                   <td>9</td>
                   <td>Bui Tuan Anh</td>
+                  <td></td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td>10</td>
+                  <td>Nguyen Dang Khanh</td>
                   <td></td>
                   <td></td>
                 </tr>
