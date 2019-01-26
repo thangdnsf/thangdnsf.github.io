@@ -70,7 +70,7 @@ I would like to know somethings regarding these courses:
                   <td >1</td>
                   <td>Linear regression</td>
                   <td></td>
-                  <td></td>
+                  <td>B401</td>
                   <td>1pm</td>
                   <th>Davis </th>
                 </tr>
