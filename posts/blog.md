@@ -1,4 +1,4 @@
 ---
 layout: category
-category: Deep learning
+category: Blog
 ---
