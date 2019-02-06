@@ -8,7 +8,7 @@ Welcome to visit my blog!
 Name: Davis (Thang Nguyen) [[CV](/resources/CV-Ng-Duc-Thang.pdf)]  
 Gender: Male  
 City: Hanoi, Vietnam  
-Career: Lecturer at Thang Long University and UET.
+Career: Lecturer at Thang Long University and UET - VNU.
 
 #### 2.My Links
 Blog: <http://thangdn.com>  
