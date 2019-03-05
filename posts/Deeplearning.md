@@ -1,4 +1,4 @@
 ---
 layout: category
-category: deeplearning
+category: Deep Learning
 ---
