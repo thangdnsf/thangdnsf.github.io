@@ -5,18 +5,33 @@ title: "Home"
 
 <!-- Loop output paged posts -->
 {% for post in paginator.posts %}
-<h2>
+<h5>
+<!-- show category -->
+{% for cats in site.all_categories %}
+    {% if post.category == cats[0] %}
+        <a href="{{cats[2]}}">{{cats[1]}}:</a>
+    {% else %}
+        {% for cat in cats[3] %}
+        {% if post.category == cat[0] %}
+        <a href="{{cat[2]}}">{{cat[1]}}:</a>
+        {% endif %}
+        {% endfor %}
+    {% endif %}
+{% endfor %}
   <a href="{{ post.url }}">
     {{ post.title }}
   </a> 
   <div class="post-date">
-	<span class="glyphicon glyphicon-time"></span>
-	{{ post.date | date:"%Y-%m-%d" }}
-  </div>
-</h2>
+        <span class="glyphicon glyphicon-time"></span>
+        {{ post.date | date:"%Y-%m-%d" }}
+</div>
+</h5>
+
 <hr>
-{{ post.excerpt }}
-	<p><h3><a href="{{ post.url }}">Read more &raquo;</a></h3></p>
+<img src="{{ post.feature-image}}" width="100%"/>
+<!-- {{ post.excerpt }}-->
+{{ post.sum }}
+	<p><h6><a href="{{ post.url }}">Read more &raquo;</a></h6></p>
 <hr>
 {% endfor %}
 
