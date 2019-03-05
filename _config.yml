@@ -10,12 +10,17 @@ name: "Thangdn"
 url: http://thangdn.com
 domain: thangdn.com
 all_categories: [
-["Courses", "Courses","/posts/Courses.html"], 
-["Blog", "Blog","/posts/blog.html"],
-["Mathematic", "Mathematic","/posts/Mathematic.html"],
-["Project", "Project","/posts/Project.html"], 
-["other", "Other","/posts/other.html"],
-["about", "About","/about.html"]
+["Courses", "Courses","/posts/Courses.html",[["Mathematic", "Mathematic","/posts/Mathematiccourse.html"],
+                                            ["Machine Learning", "Machine Learning","/posts/Machinelearningcourse.html"], 
+                                            ["Deep Learning", "Deep Learning","/posts/Deeplearningcourse.html"]]], 
+["Blog", "Blog","/posts/blog.html",[["Mathematic", "Mathematic","/posts/Mathematic.html"],
+                                    ["Machine Learning", "Machine Learning","/posts/Machinelearning.html"],
+                                    ["Deep Learning", "Deep Learning","/posts/Deeplearning.html"]]],
+["Project", "Project","/posts/Project.html",[]], 
+["other", "Other","/posts/other.html",[]],
+["about", "About","/about.html",[]],
+["Github", "Github","https://github.com/thangdnsf",[]],
+["Linkedin", "Linkedin","https://www.linkedin.com/in/thangdnsf",[]]
 ]
 
 paginate: 5

@@ -19,3 +19,27 @@ footer {
 }
 
 .well-ad{min-height:20px;padding-left:5px; padding-top:5px;padding-bottom:3px;margin-bottom:20px;background-color:#f5f5f5;border:1px solid #e3e3e3;}
+
+.dropdown-thang {
+	position: relative;
+	display: inline-block;
+  }
+  
+.dropdown-thang-content {
+	display: none;
+	position: absolute;
+	background-color: #f9f9f9;
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	padding: 10px 5px;
+	z-index: 1;
+}
+.dropdown-thang-content a {
+	color: #039be5;
+	text-decoration: none;
+	white-space: nowrap;
+}
+
+.dropdown-thang:hover .dropdown-thang-content {
+	display: block;
+}

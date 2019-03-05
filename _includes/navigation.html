@@ -1,9 +1,18 @@
 		<ul class="nav navbar-nav">
 			{% for cat in site.all_categories %}
-				<li>
+				<li class="dropdown-thang">
 				  <a href="{{cat[2]}}">
 					{{cat[1]}}
-				  </a>
+					</a>
+					{% if cat[3].size >= 1 %}
+					<div class="dropdown-thang-content">
+						{% for sub in cat[3] %}
+									<a href="{{sub[2]}}">
+											{{sub[1]}}
+									</a>
+						{% endfor %}
+					</div>
+					{% endif %}
 				</li>
 			{% endfor %}
 		</ul> 

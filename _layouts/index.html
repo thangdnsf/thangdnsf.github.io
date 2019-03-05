@@ -4,7 +4,8 @@
     <meta charset="utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
-    <meta name="description" content="{{ page.title }} - {{ site.name }} - 作者:{{ site.author }}"/>
+    <meta name="description" content="{{ page.title }} - {{ site.name }} - 作者:{{ site.author }}"/> 
+	{% if page.tags.size > 0%}<meta name="keywords" content="{% for tag in page.tags %}{% if tag != "" %}{{ tag }}{% if forloop.index != page.tags.size %},{% endif %}{% endif %}{% endfor %}"/>{% endif %}
     <title>{{ page.title }} - {{ site.name }}</title>
     <!-- Bootstrap Core CSS -->
     <link href="/css/bootstrap.min.css" rel="stylesheet"/>
@@ -24,6 +25,12 @@
     <script src="/js/jquery-1.11.0.js"> </script>
     <!-- Bootstrap Core JavaScript -->
     <script src="/js/bootstrap.min.js"></script>
+
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" media="screen,projection" href="{{ "/assets/materialize.css" | relative_url }}" />
+    <link rel="stylesheet" type="text/css" media="screen,projection" href="{{ "/assets/main.css" | relative_url }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}" />
+
   </head>
   
   <body>
