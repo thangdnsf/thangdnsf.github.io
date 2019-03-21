@@ -2,7 +2,7 @@
 layout: post
 category: "Project"
 title:  "Overlapping community structure detection in large-scale networks"
-tags: [community-detection,apache-spark,graph-mining, larg-sclale-networks, bigclam, machine-learning,scala]
+tags: [Community-detection,Apache-spark,Graph-mining, Larg-sclale-networks, Bigclam, Machine-learning,Scala]
 sum: "This is a my undergraduate thesis. In project, I provide a general view of communities and its the real life applications. In recent years, with the rapid growth of network scale, it is a difficult task to detect overlapping communities in large-scale networks for state of the art methods. This method is implemented in the Apache Spark framework for its power in distributed parallel computation."
 feature-image: "/resources/img/BigClamK_1sp.jpg"
 ---
