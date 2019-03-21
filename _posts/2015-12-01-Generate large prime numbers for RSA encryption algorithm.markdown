@@ -2,34 +2,24 @@
 layout: post
 category: "Project"
 title:  "Generate large prime numbers for RSA encryption algorithm"
-tags: [ABC,ABC]
+tags: [prime-number,large-number]
 sum: "This paper describes and implements the classical method to generate random strong primes used in cryptography. Specifically, the Rabin-Miller and Gordon algorithmsare presented in detail."
 feature-image: "/resources/img/strong-prime.png"
 ---
-### 哪个更重要？
+### Overview
 
->方向比努力重要，  
->身体比金钱重要，  
->生活比文凭重要，  
->情商比智商重要，  
->能力比知识重要，  
->行动比（愿望）空想重要。 
+This paper describes and implements the classical method to generate random strong primes used in cryptography. Specifically, the Rabin-Miller and Gordon algorithmsare presented in detail.
 
+<object data="/resources/prime.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/resources/prime.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/resources/prime.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
-### 一生最重要的7项资产
-```
-1，健康：人类的第一资产，  
-2，财富：资产的最重要诠释，  
-3，智慧：改变命运的资本，  
-4，婚姻与家庭：身心的避风港，  
-5，心灵：深查世界的棱镜，  
-6，友谊：一生快乐源泉，  
-7，人生的意义：成长的源动力。  
-```
+<object data="/resources/primgen.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/resources/primgen.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/resources/primgen.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
-### 人生四句话
-
-把自己当成别人（痛苦），  
-把别人当成自己（同情），  
-把别人当成别人（尊重），  
-把自己当成自己（走自己的路）。  
+##### Github: [PrGlib](https://github.com/Digitalsignature/PrGlib)

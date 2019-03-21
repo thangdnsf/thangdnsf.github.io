@@ -2,34 +2,23 @@
 layout: post
 category: "Project"
 title:  "Overlapping community structure detection in large-scale networks"
-tags: [ABC,ABC]
-sum: "This my undergraduate thesis. In project, I provide a general view of communities and its the real life applications. In recent years, with the rapid growth of network scale, it is a difficult task to detect overlapping communities in large-scale networks for state of the art methods. This method is implemented in the Apache Spark framework for its power in distributed parallel computation."
+tags: [community-detection,apache-spark,graph-mining, larg-sclale-networks, bigclam, machine-learning,scala]
+sum: "This is a my undergraduate thesis. In project, I provide a general view of communities and its the real life applications. In recent years, with the rapid growth of network scale, it is a difficult task to detect overlapping communities in large-scale networks for state of the art methods. This method is implemented in the Apache Spark framework for its power in distributed parallel computation."
 feature-image: "/resources/img/BigClamK_1sp.jpg"
 ---
-### 哪个更重要？
+### Overview
+This is a my undergraduate thesis. In project, I provide a general view of communities and its the real life applications. In recent years, with the rapid growth of network scale, it is a difficult task to detect overlapping communities in large-scale networks for state of the art methods. This method is implemented in the Apache Spark framework for its power in distributed parallel computation.
 
->方向比努力重要，  
->身体比金钱重要，  
->生活比文凭重要，  
->情商比智商重要，  
->能力比知识重要，  
->行动比（愿望）空想重要。 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/gar3WJzKVrQ6IR" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/thang19xx/overlapping-community-structure-detection-in-largescale-networks" title="Overlapping community structure detection in large-scale networks " target="_blank">Overlapping community structure detection in large-scale networks </a> </strong> from <strong><a href="//www.slideshare.net/thang19xx" target="_blank">Thang Nguyen</a></strong> </div>
 
 
-### 一生最重要的7项资产
-```
-1，健康：人类的第一资产，  
-2，财富：资产的最重要诠释，  
-3，智慧：改变命运的资本，  
-4，婚姻与家庭：身心的避风港，  
-5，心灵：深查世界的棱镜，  
-6，友谊：一生快乐源泉，  
-7，人生的意义：成长的源动力。  
-```
+##### Github: [BigCLAM-ApacheSpark](https://github.com/thangdnsf/BigCLAM-ApacheSpark)
+This project was referenced in **[awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection#factorization)** regarding the method: *Overlapping Community Detection at Scale: a Nonnegative Matrix Factorization Approach (WSDM 2013)*
 
-### 人生四句话
+Contact:thangdn.tlu@outlook.com
 
-把自己当成别人（痛苦），  
-把别人当成自己（同情），  
-把别人当成别人（尊重），  
-把自己当成自己（走自己的路）。  
+Every comment would be appreciated.
+
+If you want to use parts of any code of mine:
+
+let me know and use it!
