@@ -3,7 +3,27 @@ layout: page
 title: "Deep Learning from scratch"
 ---
 <h1 class="page-title gray-text text-darken-3">{{ page.title | escape }}</h1>
-
+<div class="carousel carousel-slider center"  data-indicators="true" data-namespace="DIVcarouselcarousel-slider1">
+    <div class="carousel-item red white-text" href="#one!">
+      <img src="/resources/img/IMG_0906.jpg">
+    </div>
+    <div class="carousel-item red white-text" href="#two!">
+      <img src="/resources/img/IMG_0740.jpg">
+    </div>
+    <div class="carousel-item red white-text" href="#three!">
+      <img src="/resources/img/IMG_0746.jpg">
+    </div>
+    <div class="carousel-item red white-text" href="#four!">
+      <img src="/resources/img/IMG_0747.jpg">
+    </div>
+    <div class="carousel-item red white-text" href="#five!">
+      <img src="/resources/img/IMG_0848.jpg">
+    </div>
+    <div class="carousel-item red white-text" href="#five!">
+      <img src="/resources/img/IMG_0849.jpg">
+    </div>
+  </div>
+  
 <div class="section">
     <h5>Welcome to this course</h5> 
 Hi all, I'm Thang Nguyen (Davis), Tutor in the course: from Mathematics to Machine learning and Deep learning and I really interested to do that. I strongly believe that this course will provide knowledge on machine learning, deep learning and how to apply them in real-life applications. 
@@ -83,31 +103,43 @@ I would like to know somethings regarding these courses:
                   <td>B401</td>
                   <td>1pm</td>
                   <td></td>
-                  <th></th>
+                  <th>Davis</th>
                 </tr>
                 <tr>
                   <td>3</td>
                   <td>Problems in Machine learning project</td>
-                  <td></td>
-                  <td></td>
+                  <td>March 2nd 2019</td>
+                  <td>B401</td>
                   <td>1pm</td>
                   <th></th>
+                  <th>Davis</th>
                 </tr>
                 <tr>
                   <td>4</td>
                   <td>Neural networks</td>
-                  <td></td>
-                  <td></td>
+                  <td>March 16th 2019</td>
+                  <td>B401</td>
                   <td>1pm</td>
                   <th></th>
+                  <th>Davis</th>
                 </tr>
                 <tr>
                   <td>5</td>
-                  <td>SVM</td>
-                  <td></td>
-                  <td></td>
+                  <td>Neural networks (cont.)</td>
+                  <td>March 23th 2019</td>
+                  <td>B401</td>
                   <td>1pm</td>
                   <th></th>
+                  <th>Davis</th>
+                </tr>
+                <tr>
+                  <td>6</td>
+                  <td>SVM</td>
+                  <td>March 30th 2019</td>
+                  <td>B401</td>
+                  <td>1pm</td>
+                  <th></th>
+                  <th>Davis</th>
                 </tr>
                 <tr>
                   <td>6</td>
@@ -116,6 +148,7 @@ I would like to know somethings regarding these courses:
                   <td></td>
                   <td>1pm</td>
                   <th></th>
+                  <th>Davis</th>
                 </tr>
               </tbody>
             </table>
