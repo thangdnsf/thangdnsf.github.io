@@ -52,18 +52,18 @@ I would like to know somethings regarding these courses:
                 <tr>
                   <td >1</td>
                   <td><a href="http://cs231n.github.io/python-numpy-tutorial/">Programming in python, numpy, mathplotlib, ...</a></td>
-                  <td>Jan 12th 2019</td>
-                  <td>B401</td>
-                  <td>1pm</td>
-                  <th>Davis</th>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                  <th></th>
                 </tr>
                 <tr>
                   <td >2</td>
                   <td>Review of Calculus, Linear Algebra, Probability & Statistics</td>
-                  <td>Jan 19th 2019</td>
-                  <td>B401</td>
-                  <td>1pm</td>
-                  <th>Mii, Hoan</th>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                  <th></th>
                 </tr>
               </tbody>
             </table>
