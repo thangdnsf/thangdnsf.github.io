@@ -89,66 +89,66 @@ I would like to know somethings regarding these courses:
               <tbody>
                 <tr>
                   <td >1</td>
-                  <td><a href="https://github.com/trekhleb/homemade-machine-learning/tree/master/homemade/linear_regression">Linear regression</a></td>
-                  <td>Jan 26th 2019</td>
-                  <td>B401</td>
-                  <td>1pm</td>
-                  <td><a href="https://classroom.github.com/a/RONh2Mql">submit</a></td>
-                  <th>Davis </th>
+                  <td><!--<a href="https://github.com/trekhleb/homemade-machine-learning/tree/master/homemade/linear_regression"-->Linear regression</td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                  <th></th>
                 </tr>
                 <tr>
                   <td>2</td>
                   <td>Logistics regression</td>
-                  <td>Feb 16th 2019</td>
-                  <td>B401</td>
-                  <td>1pm</td>
                   <td></td>
-                  <th>Davis</th>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                  <th></th>
                 </tr>
                 <tr>
                   <td>3</td>
                   <td>Problems in Machine learning project</td>
-                  <td>March 2nd 2019</td>
-                  <td>B401</td>
-                  <td>1pm</td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
                   <th></th>
-                  <th>Davis</th>
+                  <th></th>
                 </tr>
                 <tr>
                   <td>4</td>
                   <td>Neural networks</td>
-                  <td>March 16th 2019</td>
-                  <td>B401</td>
-                  <td>1pm</td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
                   <th></th>
-                  <th>Davis</th>
+                  <th></th>
                 </tr>
                 <tr>
                   <td>5</td>
                   <td>Neural networks (cont.)</td>
-                  <td>March 23th 2019</td>
-                  <td>B401</td>
-                  <td>1pm</td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
                   <th></th>
-                  <th>Davis</th>
+                  <th></th>
                 </tr>
                 <tr>
                   <td>6</td>
                   <td>SVM</td>
-                  <td>March 30th 2019</td>
-                  <td>B401</td>
-                  <td>1pm</td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
                   <th></th>
-                  <th>Davis</th>
+                  <th></th>
                 </tr>
                 <tr>
-                  <td>6</td>
+                  <td>7</td>
                   <td>K-Mean</td>
                   <td></td>
                   <td></td>
-                  <td>1pm</td>
+                  <td></td>
                   <th></th>
-                  <th>Davis</th>
+                  <th></th>
                 </tr>
               </tbody>
             </table>
@@ -174,7 +174,7 @@ I would like to know somethings regarding these courses:
                   <td>Deep neural networks</td>
                   <td></td>
                   <td></td>
-                  <td>1pm</td>
+                  <td> </td>
                   <th></th>
                 </tr>
                 <tr>
@@ -182,7 +182,7 @@ I would like to know somethings regarding these courses:
                   <td>CNNs</td>
                   <td></td>
                   <td></td>
-                  <td>1pm</td>
+                  <td> </td>
                   <th></th>
                 </tr>
                 <tr>
@@ -190,15 +190,15 @@ I would like to know somethings regarding these courses:
                   <td>CNNs (cont.)</td>
                   <td></td>
                   <td></td>
-                  <td>1pm</td>
+                  <td> </td>
                   <th></th>
                 </tr>
                 <tr>
                   <td>4</td>
-                  <td>CNNs</td>
+                  <td>CNNs (cont.)</td>
                   <td></td>
                   <td></td>
-                  <td>1pm</td>
+                  <td> </td>
                   <th></th>
                 </tr>
                 <tr>
@@ -206,7 +206,7 @@ I would like to know somethings regarding these courses:
                   <td>RNNs</td>
                   <td></td>
                   <td></td>
-                  <td>1pm</td>
+                  <td> </td>
                   <th></th>
                 </tr>
                 <tr>
@@ -214,7 +214,7 @@ I would like to know somethings regarding these courses:
                   <td>RNNs (cont.)</td>
                   <td></td>
                   <td></td>
-                  <td>1pm</td>
+                  <td> </td>
                   <th></th>
                 </tr>
               </tbody>
@@ -262,7 +262,7 @@ I would like to know somethings regarding these courses:
                   <td></td>
                 </tr>
                 <tr>
-                  <td>Hoang Bui</td>
+                  <td>Tu Anh</td>
                   <td>Teaching Assistant</td>
                   <td></td>
                   <td></td>
@@ -343,15 +343,20 @@ I would like to know somethings regarding these courses:
                   <td>Afshine Amidi (MIT) and Shervine Amidi (Stanford)</td>
                   <td></td>
                 </tr>
+                <tr>
+                  <td>10</td>
+                  <td><a href="https://media.licdn.com/dms/document/C511FAQFlSnGp6GN_HA/feedshare-document-pdf-analyzed/0?e=1557241200&v=beta&t=jtKSedBi23SMR5Os34W1GxeTIqgcJ7BlKrGnLISXdMY">Supervised Machine Learning (Lecture notes for the Statistical Machine Learning course)</a></td>
+                  <td>Andreas Lindholm, Niklas Wahlström,Fredrik Lindsten, Thomas B. Schön</td>
+                  <td></td>
+                </tr>
               </tbody>
             </table>
           </div>
     </div>
     
 </div>
-
 <div class="section">
-    <h5>Students</h5> 
+    <h5>Students - May 2019</h5> 
     <div class="row">
           <div class="col s12">
             <table class="striped centered">
@@ -359,8 +364,82 @@ I would like to know somethings regarding these courses:
                 <tr>
                     <th>No.</th>
                     <th>Name</th>
-                    <th>Phone</th>
                     <th>Email</th>
+                    <th>Project</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>1</td>
+                  <td>Le Van Kien</td>
+                  <td></td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td>2</td>
+                  <td>Nguyen Trung Phong</td>
+                  <td></td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td>3</td>
+                  <td>Nguyen Huy Tung</td>
+                  <td></td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td>4</td>
+                  <td>Nguyen Van Dat</td>
+                  <td></td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td>5</td>
+                  <td>Tran Binh Minh</td>
+                  <td></td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td>6</td>
+                  <td>Nguyen Tu Dien</td>
+                  <td></td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td>7</td>
+                  <td>Bui Duc Toan</td>
+                  <td></td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td>8</td>
+                  <td>Nguyen Dinh Huynh</td>
+                  <td></td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td>9</td>
+                  <td>Nguyen Huy Hoang</td>
+                  <td></td>
+                  <td></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+    </div>
+</div>
+
+<div class="section">
+    <h5>Students - 2018</h5> 
+    <div class="row">
+          <div class="col s12">
+            <table class="striped centered">
+             <thead class="card-panel teal lighten-2 white-text">
+                <tr>
+                    <th>No.</th>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Project</th>
                 </tr>
               </thead>
               <tbody>
@@ -368,36 +447,33 @@ I would like to know somethings regarding these courses:
                   <td>1</td>
                   <td>Nguyen Ngoc Hai</td>
                   <td></td>
-                  <td></td>
+                  <td rowspan="2">CT-Scan segmentation</td>
                 </tr>
                 <tr>
                   <td>2</td>
-                  <td>Nguyen Chi Cong</td>
-                  <td></td>
+                  <td>Nguyen Van Son</td>
                   <td></td>
                 </tr>
                 <tr>
                   <td>3</td>
-                  <td>Nguyen Van Son</td>
+                  <td>Nguyen Chi Cong</td>
                   <td></td>
-                  <td></td>
+                  <td>License plate recognition on highway</td>
                 </tr>
                 <tr>
                   <td>4</td>
-                  <td>Nham Ngoc Tuan Anh</td>
+                  <td>Bui Tuan Anh</td>
                   <td></td>
-                  <td></td>
+                  <td rowspan="3">Automatic student attendance using face recognition - Tlnet</td>
                 </tr>
                 <tr>
                   <td>5</td>
-                  <td>Lai Thi Phuong Thao</td>
-                  <td></td>
+                  <td>Nguyen Tien Hoang</td>
                   <td></td>
                 </tr>
                 <tr>
                   <td>6</td>
-                  <td>To Huong Lan</td>
-                  <td></td>
+                  <td>Nguyen Dang Khanh</td>
                   <td></td>
                 </tr>
                 <tr>
@@ -408,26 +484,27 @@ I would like to know somethings regarding these courses:
                 </tr>
                 <tr>
                   <td>8</td>
-                  <td>Nguyen Tien Hoang</td>
+                  <td>Nham Ngoc Tuan Anh</td>
                   <td></td>
-                  <td></td>
+                  <td>Out</td>
                 </tr>
                 <tr>
                   <td>9</td>
-                  <td>Bui Tuan Anh</td>
+                  <td>Lai Thi Phuong Thao</td>
                   <td></td>
-                  <td></td>
+                  <td>Out</td>
                 </tr>
                 <tr>
                   <td>10</td>
-                  <td>Nguyen Dang Khanh</td>
+                  <td>To Huong Lan</td>
                   <td></td>
-                  <td></td>
+                  <td>Out</td>
                 </tr>
               </tbody>
             </table>
           </div>
     </div>
-    
 </div>
+
+
 
