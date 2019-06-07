@@ -349,6 +349,12 @@ I would like to know somethings regarding these courses:
                   <td>Andreas Lindholm, Niklas Wahlström,Fredrik Lindsten, Thomas B. Schön</td>
                   <td></td>
                 </tr>
+                <tr>
+                  <td>11</td>
+                  <td><a href="https://sgfin.github.io/learning-resources/">Machine Learning and Medicine</a></td>
+                  <td>MIT</td>
+                  <td></td>
+                </tr>
               </tbody>
             </table>
           </div>
